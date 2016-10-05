@@ -5,4 +5,4 @@ space added a pen
 space added an apple
 space added an pineapple
 pen+apple+pineapple
-pen+pinapple+apple+pen
+dog+pinapple+apple+dog
