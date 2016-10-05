@@ -1,8 +1,8 @@
 o LOVE GITHUB
-var c = 1;
+var cdb = 1;
 var hoem -2;
 space added a pen
 space added an apple
 space added an pineapple
 pen+apple+pineapple
-local earth
+space 
