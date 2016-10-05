@@ -5,4 +5,4 @@ space added a pen
 space added an apple
 space added an pineapple
 pen+apple+pineapple
-doggy+cattie
+local earth
