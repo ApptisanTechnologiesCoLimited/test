@@ -1,5 +1,5 @@
 o LOVE GITHUB
-var a = 1;
+var n = 1;
 var hoem -2;
 space added a pen
 space added an apple
