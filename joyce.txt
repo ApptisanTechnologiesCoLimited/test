@@ -1,4 +1,4 @@
-o LOVE GITHUB
+i am newbe 
 var cdb = 1;
 var hoem -2;
 space added a pen
